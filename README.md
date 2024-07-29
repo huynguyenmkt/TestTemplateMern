@@ -22,16 +22,11 @@ I have attempted to use the best practices for both ends, which should make it e
 
 # How to use this template
 
-[📀 Demo video](https://youtu.be/N2pvvkyoS68)
-
 ### STEP 1:
-
-Click ["Use this template"](https://github.com/benelferink/MERN-template/generate) to generate a
-new repository.<br />
-Then open your terminal and clone your repository:
+Clone this repository:
 
 > cd ~/Desktop <br />
-> git clone https://github.com/[your-user-name]/[your-repo-name].git
+> git clone https://github.com/huynguyenmkt/TestTemplateMern.git
 
 <br />
 
